@@ -7,7 +7,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-mwasigala-4b85b5132/)
   [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCu6rDYmghZBN6wXkvGRMmQQ)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/myspexg)
-  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-162-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13104348/caroline-mwasigala)
+  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-177-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13104348/caroline-mwasigala)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)
 </div>
